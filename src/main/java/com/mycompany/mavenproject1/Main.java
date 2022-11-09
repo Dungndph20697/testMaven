@@ -16,5 +16,6 @@ public class Main {
         System.out.println("test mã 2");
         System.out.println("test mã 3");
         System.out.println("Mua haha ahahahaha");
+        System.out.println("Mua haha ahahahaha");
     }
 }
